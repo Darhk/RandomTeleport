@@ -1,0 +1,10 @@
+name: RandomTeleport
+main: io.github.darhkdevelopments.RandomTeleport.RandomTeleport
+version: 1
+
+commands:
+  rtp:
+    description: Random Teleport base command
+    usage: /rtp <biome>
+    permission: rtp.tp
+    permission-message: You don't have the right permissions to use this command.
